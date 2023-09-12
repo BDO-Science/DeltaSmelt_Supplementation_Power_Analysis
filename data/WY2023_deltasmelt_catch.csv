@@ -1,0 +1,50 @@
+Date,Survey,Stratum,CDFW Region,Region,Species,Count,Marked,MarkedSum,Tag,SalvageSum,StationCode
+12/14/2022,Broodstock,Lower Sacramento,,West,DSM,1,unmarked,,,,
+12/14/2022,Broodstock,Lower Sacramento,,West,DSM,1,marked,1,LRA,,
+1/19/2023,Chipps,Lower Sacramento,,West,DSM,1,marked,1,ROP,,
+2/19/2023,Chipps,Lower Sacramento,,West,DSMT,1,marked,1,RGP,,
+1/7/2023,CVP Salvage,Southern Delta,,South,DSM,1,marked,1,LRA,1,
+2/12/2023,CVP Salvage,Southern Delta,,South,DSMT,1,marked,1,ROP,1,
+2/13/2023,CVP Salvage,Southern Delta,,South,DSMT,1,marked,1,ROP,1,
+2/13/2023,CVP Salvage,Southern Delta,,South,DSMT,1,marked,1,ROP,1,
+2/14/2023,CVP Salvage,Southern Delta,,South,DSMT,1,marked,1,ROP,1,
+2/17/2023,CVP Salvage,Southern Delta,,South,DSMT,1,marked,1,ROP,1,
+2/18/2023,CVP Salvage,Southern Delta,,South,DSM,1,unmarked,,,1,
+2/22/2023,CVP Salvage,Southern Delta,,South,DSMT,1,marked,1,ROP,1,
+3/2/2023,CVP Salvage,Southern Delta,,South,DSMT,1,marked,1,LOA,1,
+11/3/2022,EDSM,Lower Sacramento,,West,DSM,1,unmarked,,,,23-14-LSR06
+11/7/2022,EDSM,Lower Sacramento,,West,DSM,1,unmarked,,,,23-15-LSR04
+1/17/2023,EDSM,Southern Delta,,South,DSM,1,unmarked,,,,23-25-SD02
+1/24/2023,EDSM,Suisun Bay,,West,DSMT,1,marked,1,ad,,23-26-SB05
+1/26/2023,EDSM,Cache Slough Liberty Island,,North,DSMT,1,marked,1,LOA,,23-26-CS01
+1/27/2023,EDSM,Lower Sacramento,,North,DSMT,1,marked,1,ROP,,23-26-LSR04
+1/30/2023,EDSM,Lower Sacramento,,West,DSMT,1,marked,1,RGP,,23-27-LSR02
+1/30/2023,EDSM,Suisun Bay,,Far West,DSMT,1,marked,1,ROP,,23-27-SB02
+1/30/2023,EDSM,Suisun Bay,,West,DSMT,1,marked,1,LRA,,23-27-SB03
+1/31/2023,EDSM,Lower Sacramento,,North,DSMT,1,marked,1,RGP,,23-27-LSR01
+1/31/2023,EDSM,Lower San Joaquin,,West,DSM,1,unmarked,,,,23-27-LSJ06
+2/1/2023,EDSM,Sac Deepwater Ship Channel,,North,DSMT,1,marked,1,LOA,,23-27-SSC01
+2/1/2023,EDSM,Sac Deepwater Ship Channel,,North,DSMT,1,marked,1,LOA,,23-27-SSC03
+2/1/2023,EDSM,Sac Deepwater Ship Channel,,North,DSMT,1,marked,1,LOA,,23-27-SSC03
+2/1/2023,EDSM,Sac Deepwater Ship Channel,,North,DSMT,1,marked,1,LOA,,23-27-SSC03
+2/2/2023,EDSM,Cache Slough Liberty Island,,North,DSMT,1,marked,1,LOA,,23-27-CS03
+2/3/2023,EDSM,Lower Sacramento,,West,DSMT,1,marked,1,RGP,,23-27-LSR05
+2/3/2023,EDSM,Lower Sacramento,,West,DSMT,1,marked,1,RGP,,23-27-LSR05
+2/3/2023,EDSM,Lower Sacramento,,West,DSMT,1,marked,1,RGP,,23-27-LSR05
+2/7/2023,EDSM,Cache Slough Liberty Island,,North,DSMT,1,marked,1,LOA,,23-28-CS06
+2/9/2023,EDSM,Suisun Marsh,,West,DSM,1,unmarked,,,,23-28-SM01
+2/14/2023,EDSM,Confluence,,West,DSMT,1,marked,1,RGP,,23-29-SB07
+2/15/2023,EDSM,Lower Sacramento,,North,DSMT,1,marked,1,RGP,,23-29-LSR06
+2/17/2023,EDSM,Sac Deepwater Ship Channel,,North,DSMT,1,marked,1,RGP,,23-29-SSC03
+2/24/2023,EDSM,Lower Sacramento,,North,DSMT,1,marked,1,RGP,,23-30-LSR02
+3/6/2023,EDSM,Suisun Marsh,,West,DSMT,1,marked,1,ad,,23-32-SM03
+3/7/2023,EDSM,Sac Deepwater Ship Channel,,North,DSMT,1,marked,1,LOA,,23-32-SSC02
+3/21/2023,EDSM,Sac Deepwater Ship Channel,,North,DSMT,1,marked,1,RGP,,23-34-SSC03
+2/8/2023,SKT,Sac Deepwater Ship Channel,,North,DSMT,1,marked,1,LOA,,
+2/8/2023,SKT,Lower Sacramento,,North,DSMT,1,marked,1,ROP,,
+3/8/2023,SKT,Sac Deepwater Ship Channel,,North,DSMT,1,marked,1,LOA,,
+3/8/2023,SKT,Sac Deepwater Ship Channel,,North,DSMT,1,marked,1,LOA,,
+2/8/2023,SWP Salvage,Southern Delta,,South,DSMT,1,marked,1,ROP,1,
+2/22/2023,SWP Salvage,Southern Delta,,South,DSMT,1,marked,1,ad,1,
+2/22/2023,SWP Salvage,Southern Delta,,South,DSMT,1,marked,1,LOA,1,
+3/2/2023,SWP Salvage,Southern Delta,,South,DSMT,1,marked,1,ROP,1,
