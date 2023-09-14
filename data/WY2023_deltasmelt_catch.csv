@@ -1,8 +1,8 @@
 Date,Survey,Stratum,CDFW Region,Region,Species,Count,Marked,MarkedSum,Tag,SalvageSum,StationCode,TowNumber
-12/14/2022,Broodstock,Lower Sacramento,,West,DSM,1,unmarked,,,,,
-12/14/2022,Broodstock,Lower Sacramento,,West,DSM,1,marked,1,LRA,,,
-1/19/2023,Chipps,Lower Sacramento,,West,DSM,1,marked,1,ROP,,,
-2/19/2023,Chipps,Lower Sacramento,,West,DSMT,1,marked,1,RGP,,,
+12/14/2022,Broodstock,Lower Sacramento,,West,DSM,1,unmarked,,,,Broodstock,
+12/14/2022,Broodstock,Lower Sacramento,,West,DSM,1,marked,1,LRA,,Broodstock,
+1/19/2023,Chipps,Lower Sacramento,,West,DSM,1,marked,1,ROP,,Chipps,
+2/19/2023,Chipps,Lower Sacramento,,West,DSMT,1,marked,1,RGP,,Chipps,
 1/7/2023,CVP Salvage,Southern Delta,,South,DSM,1,marked,1,LRA,1,,
 2/12/2023,CVP Salvage,Southern Delta,,South,DSMT,1,marked,1,ROP,1,,
 2/13/2023,CVP Salvage,Southern Delta,,South,DSMT,1,marked,1,ROP,1,,

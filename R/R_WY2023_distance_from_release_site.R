@@ -60,10 +60,22 @@ salvage_stations <- data.frame(Survey = c("CVP", "SWP"),
                           StationCode = c("CVP","SWP"),
                           Latitude = c(37.815176,37.82968216253291),
                           Longitude = c(-121.560709, -121.55652895353651))
-# Combine datasets into 1 and convert to SF
-station_all <- bind_rows(edsm_stations, skt_stations, salvage_stations)
 
-test<-station_all %>% filter(StationCode=="23-31-SSC02")
+# Broodstock fish: 38° 3.816’ -121° 47.915’ (from Luke through Cat)
+
+broodstock_station  <- data.frame(Survey  = "Broodstock",
+                         StationCode = "Broodstock",
+                             Latitude = 38.063600,
+                             Longitude = -121.798583) 
+
+chipps_station  <- data.frame(Survey  = "Chipps",
+                      StationCode = "Chipps",
+                         Latitude = 38.04598,
+                         Longitude = -121.909917) 
+
+
+# Combine datasets into 1 and convert to SF
+station_all <- bind_rows(edsm_stations, skt_stations, salvage_stations,broodstock_station,chipps_station)
 
 station_all_sf <- station_all %>% filter(Longitude > -500) %>%
   st_as_sf(coords = c("Longitude", "Latitude"), crs = 4326) %>%
